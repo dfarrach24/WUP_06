@@ -151,7 +151,7 @@ fisherXY(mydata$race,mydata$cappun)
 
 
 
-Based on this smaller data set there is no data of a statistical difference in attitude towards capita punishment.  
+Based on this smaller data set there is no data of a statistical difference in attitude towards capital punishment. The p-value = 1.741e-05, hence we reject the null hypothesis.  
 
 # Discussion and Conclusion
 
