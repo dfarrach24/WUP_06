@@ -72,6 +72,17 @@ There is a significant difference in attitude towards capital punishment (cappun
 
 
 
+```{r}
+table1 <- xtabs(~race + cappun, data=mydata)
+rowPerc(table1)
+colPerc(table1)
+```
+
+
+Based on the percentages, the white race favors capital punishment by 65%, blacks at 42% and other races favors by 55%.
+Among those who oppose capital punishment the black race seems to oppose more against capital punishment by 57.37
+
+
 ## Now with More data
 
 
