@@ -1,7 +1,7 @@
 ---
 title: "GSS challange More Data"
-author: "Put your name here!"
-date: "put the date here"
+author: "Danitza Nunez"
+date: "5 OCT 2022"
 output: html_document
 ---
 
