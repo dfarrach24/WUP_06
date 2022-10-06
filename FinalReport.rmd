@@ -44,6 +44,16 @@ If not, then whose view differs from whom??
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question. Bottom line is to explain the features of the graph that are relevant to conforming or departing to what is expected by your null hypothesis !-->
 
 
+```{r}
+barchartGC(~race + cappun,data=mydata)
+barchartGC(~race + cappun,data=mydata, type="percent")
+
+```
+
+
+Based on this data set there is still a significant difference in attitude toward capital punishment (cappun) based on race. As whites still reflect a high percentage in favoring capital punishment and blacks still reflect about 50/50 favoring and opposing. 
+
+
 
 ## Now with LESS data (more variables give less data due to NA's) create the approate graphic displays to answer the question.
 
