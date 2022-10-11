@@ -156,3 +156,6 @@ Based on this smaller data set there is no data of a statistical difference in a
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+
+The different data sets reflect that there is a significant difference in attitude toward capitol punishment (cappun)  based on face. In this data set 2659 were observed. This data set reflects there is a higher percentage of white you favor cappun vs blacks. With a smaller data set Black both favor and oopse capital punishment equally. 
