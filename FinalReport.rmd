@@ -179,5 +179,5 @@ The fisher XY Test data reflects that p-value = 1.741e-05.Hence the null hypothe
 
 Based on the smaller data sets 416 white favor capital punishment while 198 oppose it, and 60 black favor capital punishment and 67 oppose it.     
 The Fisher's Exact Test for Count Data shows that the 
-p-value = 1.741e-05, hence the null hypothesis is rejected. There is a significant difference in attitude towards capital punishment (cappun) based on race. Comparing the larger data set to the smaller set there is a racial influence on the issue of capital punishment.
+p-value = 1.741e-05, hence the null hypothesis is rejected. There is a significant difference in attitude towards capital punishment (cappun) based on race. Comparing the larger data set to the smaller set there is a racial influence on the issue of capital punishment. 
 
