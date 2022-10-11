@@ -166,14 +166,15 @@ fisherXY = function(x, y, confL = 0, printAll=FALSE){
 fisherXY(mydata$race,mydata$cappun)
 ```
 
-
-
-
-
-
 ## More data version
+
+The fisher XY Test data reflects that p-value = 1.741e-05.Hence the null hypothesis is rejected.Of the 821 observations there is data the proves that there is a significant difference in attitude towards capital punishment (cappun) based on race. The smaller data set reflects that black people have a 50/50 favor and opposing perspective on cappun. 
+
+
 
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+
