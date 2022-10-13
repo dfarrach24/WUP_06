@@ -175,7 +175,5 @@ fisherXY(mydata$race,mydata$cappun)
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-Based on the smaller data sets 416 white favor capital punishment while 198 oppose it, and 60 black favor capital punishment and 67 oppose it.     
-The Fisher's Exact Test for Count Data shows that the 
-p-value = 1-05, hence the null hypothesis is rejected. There is a significant difference in attitude towards capital punishment (cappun) based on race. Comparing the larger data set to the smaller set there is a racial influence on the issue of capital punishment. 
+
 
